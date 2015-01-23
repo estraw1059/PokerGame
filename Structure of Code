@@ -1,0 +1,18 @@
+Create Deck
+Shuffle Deck
+Deal Card
+Get Players ones Bet
+    Check that he has that amount
+Get Players twos Bet
+    Check that he has that amount
+Let Player one switch cards
+
+Let Player two switch cards
+
+Run betting Cycle again
+
+Switch cards
+
+Betting
+
+Compare hands

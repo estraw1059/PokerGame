@@ -1,0 +1,32 @@
+Classes:
+
+Player Class:
+    Bank 
+    Cards
+    Take Bet
+    Swtich card
+    
+Deck Class
+    Cards
+    Shuffle
+
+Dealer Class
+    Deal Cards
+    Ask for Bet
+    Switch Cards
+    Determine Winner
+    Run Game
+
+Bank Class
+    Bank Amount
+    Deposit
+    Balance
+    Withdraw
+    
+
+Comparer Class
+    Compare Hands
+    
+Card Class
+    Suit
+    Number (Jacks = 11, Queen = 12, King = 13, Aces = 14 or 1)

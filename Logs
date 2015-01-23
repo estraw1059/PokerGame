@@ -1,0 +1,22 @@
+Log:
+ 
+ Classes that are finished:
+    Card
+    Deck
+    Suit
+    Dealer
+
+Classes to be finished:
+    CompareHand
+    
+Classes to be Written:
+    Table
+    5 Card Poker GamePlay
+    Rewrite Classes to support Constructers that take inputs
+    Game Set-up Goal:
+        Creates a table
+        Creates a Deck Of Cards
+        Creates a dealer
+        Creates Players
+        Starts Game
+        
